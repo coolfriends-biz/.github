@@ -1,12 +1,4 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg" />
-  <img src="./assets/wordmark-light.svg" alt="시원한친구들" width="300" />
-</picture>
-
-<img src="./assets/banner.png" alt="" width="100%" />
-
 ### 시원한친구들의 개발자(Ops / Dev) 레포지토리입니다
 
 [![조직](https://img.shields.io/badge/GitHub-coolfriends--biz-0f172a?logo=github&logoColor=white)](https://github.com/coolfriends-biz)
@@ -14,16 +6,6 @@
 [![CFDM](https://img.shields.io/badge/CFDM-design%20method-0d9488?logo=react&logoColor=white)](https://github.com/coolfriends-biz/CFDM)
 
 </div>
-
----
-
-## 우리는 CFDM으로 만들어요
-
-**CFDM(CoolFriends Design Method)** 은 시원한친구들이 직접 정의한 디자인 방법론이에요.  
-색·간격·타이포그래피·모션을 토큰 단위로 관리하고,  
-React 컴포넌트와 Vite 데모로 바로 쓸 수 있게 만들었어요.
-
-> 차분하고, 직관적이며, 한국어를 먼저 생각해요.
 
 ---
 
